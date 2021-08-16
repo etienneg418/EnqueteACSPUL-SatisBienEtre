@@ -8,7 +8,7 @@ N'importe quel membre de l'ACSPUL peut contribuer aux tâches décrites dans le 
 
 | Mois | Étape |
 |---------|-------|
-|Août 2021| [Initialisation du projet](https://github.com/etienneg418/EnqueteACSPUL-SatisBienEtre/new/main#initialisation-du-projet) |
+|Août 2021| [Initialisation du projet](https://github.com/etienneg418/EnqueteACSPUL-SatisBienEtre#initialisation-du-projet) |
 |Septembre 2021| Présentation du projet en AG et mise en place d'un comité dédié |
 |Octobre 2021| Conception de l'enquête |
 |Novembre 2021| Développement d'une version d'essai du questionnaire en ligne |
