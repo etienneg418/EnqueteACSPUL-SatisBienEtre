@@ -32,13 +32,24 @@ N'importe quel membre de l'ACSPUL peut contribuer aux tâches décrites dans le 
 
 ## Conception de l'enquête
 
+- À venir
 
 ## Développement d'une version d'essai du questionnaire en ligne 
 
-## Pré-test de la version d'essai et déboguage 
+- À venir
+
+## Pré-test de la version d'essai et déboguage
+
+- À venir
 
 ## Collecte de données
 
+- À venir
+
 ## Rédaction du rapport de recherche
 
+- À venir
+
 ## Finalisation et soumission du rapport de recherche au instance pertinentes
+
+- À venir
