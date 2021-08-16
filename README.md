@@ -1,34 +1,24 @@
 # Enquête sur la satisfaction et le bien-être des membres de l'[ACSPUL](http://www.acspul.asso.ulaval.ca/)
 
-## Introduction
-
-Bienvenue dans le *repository* public de l'enquête sur la satisfaction et le bien-être des membres de l'ACSPUL. Dans ce *repository* ce trouve:
-
-- Le calendrier de réalisation du projet et l'échéancier des tâches;
-- Le devis de recherche de l'enquête;
-- Le questionnaire utilisé pour l'enquête avec un dictionnaire de variable;
-- La syntaxe pour les analyses
+Bienvenue sur la page internet de l'Enquête sur la satisfaction et le bien-être des membres de l'ACSPUL !
 
 ## Pourquoi une enquête sur la satisfaction et le bien-être des étudiants de l'ACSPUL ?
 
-(à venir)
+Plusieurs événements au cours des dernière année amène à constater la nécéssité d'inspirer l'amélioration de la qualité de la formation aux cycles supérieur en psychologie de l'Université Laval. Ce projet se veut l'une des premières étapes de ce processus d'amélioration. L'objectif principal de ce projet est d'évaluer rigoureusement l'état actuel des étudiants de l'ACSPUL ainsi que leur satisfaction à l'égard des programmes auquelle ils prennent part.
 
-## Collaborateurs au projet
+## Calendrier de réalisation du projet
 
-Si vous êtes membre de l'ACSPUL vous êtes chaleureusement invité à devenir un collaborateur. Vous pouvez être collaborateur, peu importe le temps qu'il vous est possible d'investir. Que vous désiriez mener l'analyse des résultats, participer aux réfléxions pour conceptualiser le questionnaire, ou participer à la révision grammaticale vous êtes la bienvenue !
+Le projet est encore embryonnaire, mais déjà un [calendrier de réalisation est disponible ici]().
 
-En date du 10 août 2021, voici la liste des collaborateurs au projet, leur coordonnée et leur rôle au sein de l'équipe:
+## Vous désirez vous impliquer dans le projet ?
 
-- [Étienne Gagnon](mailto:etienne.gagnon.11@ulaval.ca): coordonateur général;
-- 
+Nous sommes présentement activement à la recherche de collaborateur. Si vous êtes membre de l'ACSPUL vous êtes chaleureusement invité à devenir un collaborateur. Vous êtes également invité à regarder le [calendrier de réalisation]() pour identifier une étape à laquelle vous voudriez participer. Vous pouvez être collaborateur peu importe le temps qu'il vous est possible d'investir. Que vous désiriez mener l'analyse des résultats, participer aux réfléxions pour conceptualiser le questionnaire, ou participer à la révision grammaticale vous êtes la bienvenue ! Pour manifester votre intérêt veuillez écrire à Étienne Gagnon à l'adresse suivante: [etienne.gagnon.11@ulaval.ca](mailto:etienne.gagnon.11@ulaval.ca).
 
-## Pourquoi un *repo* github pour le projet ?
+En date du 16 aout 2021, voici les collaborateurs au projet:
 
-Github est réputé pour faciliter le contrôle de version et la collaboration entre individus qui partage les mêmes intérêts. De plus, Github facilite la transparence, la diffusion, l'intégrité et la validité de la recherche. Github offre aussi des applications pour faciliter la diffusion de résultats de recherche sur le web. De plus, l'application est gratuite ! Github peut être difficile d'approche, mais notez qu'il n'est pas nécessaire de savoir l'utiliser pour collaborer au projet.
+- Étienne Gagnon
+- Laurence Dubé
 
-Note: par souci de confidentialité, aucune donnée brute ne sera disponible à partir de ce *repo*. Vous pouvez néanmoins en faire la requête à [Étienne Gagnon](mailto:etienne.gagnon.11@ulaval.ca) si vous désirez participer à l'analyse des résultats, moyennant la signature d'un formulaire d'engagement au respect de la confidentialité.
+## Note
 
-## Liens utiles
-
-Pour apprendre à utiliser Github: 
-Pour apprendre à utiliser Markdown: https://www.markdowntutorial.com/lesson/1/
+Cette page est appellé à être modifié en fonction du développement du projet. Ce projet se veut le plus transparent possible, vous pouvez ainsi faire le suivi des modifications à partir du _repository_ Github suivant: [github.com/etienneg418/EnqueteACSPUL-SatisBienEtre](github.com/etienneg418/EnqueteACSPUL-SatisBienEtre)
