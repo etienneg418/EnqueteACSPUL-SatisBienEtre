@@ -1,8 +1,8 @@
 # Calendrier de réalisation du projet d'enquête
 
-Voici une ébauche de l'échéancier des étapes nécéssaires à la réalisation du projet d'enquête. 
+Voici une ébauche de l'échéancier des étapes nécessaires à la réalisation du projet d'enquête. 
 
-Les étapes sont résumés dans le calendrier ci-bas. Les tâches spécifiques de chaques étapes sont détaillées dans une section dédiée.
+Les étapes sont résumées dans le calendrier ci-bas. Les tâches spécifiques de chaque étape sont détaillées dans une section dédiée.
 
 N'importe quel membre de l'ACSPUL peut contribuer aux tâches décrites dans le présent document.
 
@@ -16,7 +16,7 @@ N'importe quel membre de l'ACSPUL peut contribuer aux tâches décrites dans le 
 |Janvier 2022| [Collecte de données]() |
 |Février 2022| [Rédaction du rapport de recherche]() |
 |Mars 2022| [Rédaction du rapport de recherche]() |
-|Mai 2022| [Finalisation et soumission du rapport de recherche au instance pertinentes]() |
+|Avril 2022| [Finalisation et soumission du rapport de recherche aux instances pertinentes]() |
 
 ## Initialisation du projet 
 
@@ -28,7 +28,7 @@ N'importe quel membre de l'ACSPUL peut contribuer aux tâches décrites dans le 
 
 - [ ] Présentation du projet en AG de l'ACSPUL;
 - [ ] Recrutement de contributeurs;
-- [ ] Mise en place du comité dédié à l'enquète;
+- [ ] Mise en place du comité dédié à l'enquête;
 
 ## Conception de l'enquête
 
@@ -38,7 +38,7 @@ N'importe quel membre de l'ACSPUL peut contribuer aux tâches décrites dans le 
 
 - À venir
 
-## Pré-test de la version d'essai et déboguage
+## Pré-test de la version d'essai et débogage
 
 - À venir
 
@@ -50,6 +50,6 @@ N'importe quel membre de l'ACSPUL peut contribuer aux tâches décrites dans le 
 
 - À venir
 
-## Finalisation et soumission du rapport de recherche au instance pertinentes
+## Finalisation et soumission du rapport de recherche
 
 - À venir
