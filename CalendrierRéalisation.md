@@ -21,14 +21,15 @@ N'importe quel membre de l'ACSPUL peut contribuer aux tâches décrites dans le 
 ## Initialisation du projet 
 
 - [x] Post FB de lancement du projet; 
-- [ ] Ébauche du calendrier de réalisation;
-- [ ] Initialisation de la page web d'information à propos du projet
+- [x] Ébauche du calendrier de réalisation;
+- [x] Initialisation de la page web d'information à propos du projet;
+- [ ] Première rencontre virtuelle d'information
 
 ## Présentation du projet en AG et mise en place d'un comité dédié
 
+- [ ] Seconde rencontre (en personne?) d'information;
 - [ ] Présentation du projet en AG de l'ACSPUL;
-- [ ] Recrutement de contributeurs;
-- [ ] Mise en place du comité dédié à l'enquête;
+- [ ] Mise en place du comité dédié au projet;
 
 ## Conception de l'enquête
 
