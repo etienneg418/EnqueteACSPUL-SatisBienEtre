@@ -8,17 +8,21 @@ Plusieurs événements au cours des dernières années amènent à constater la 
 
 ## Calendrier de réalisation du projet
 
-Le projet est encore embryonnaire, mais déjà un [calendrier de réalisation est disponible ici](https://etienneg418.github.io/EnqueteACSPUL-SatisBienEtre/CalendrierRéalisation).
+Le projet est encore embryonnaire et reste à être officialisé lors de l'AGA de l'ASCPUL de septembre 2021, mais déjà un [calendrier de réalisation est disponible ici](https://etienneg418.github.io/EnqueteACSPUL-SatisBienEtre/CalendrierRéalisation).
 
 ## Vous désirez vous impliquer dans le projet ?
 
-Nous sommes présentement activement à la recherche de collaborateur. Si vous êtes membre de l'ACSPUL vous êtes chaleureusement invité à devenir un collaborateur. Vous êtes également invité à regarder le [calendrier de réalisation]() pour identifier une étape à laquelle vous voudriez participer. Vous pouvez être collaborateur peu importe le temps qu'il vous est possible d'investir. Que vous désiriez mener l'analyse des résultats, participer aux réflexions pour conceptualiser le questionnaire, ou participer à la révision grammaticale, vous êtes la bienvenue ! Pour manifester votre intérêt veuillez écrire à Étienne Gagnon à l'adresse suivante: [etienne.gagnon.11@ulaval.ca](mailto:etienne.gagnon.11@ulaval.ca).
+Nous sommes présentement activement à la recherche de collaborateur. Si vous êtes membre de l'ACSPUL vous êtes chaleureusement invité participer au projet ! Vous êtes également invité à regarder le [calendrier de réalisation](https://etienneg418.github.io/EnqueteACSPUL-SatisBienEtre/CalendrierRéalisation) pour identifier une étape à laquelle vous voudriez participer. Vous pouvez être collaborateur peu importe le temps qu'il vous est possible d'investir. Que vous désiriez mener l'analyse des résultats, participer aux réflexions pour conceptualiser le questionnaire, ou participer à la révision grammaticale, vous êtes la bienvenue ! 
 
-En date du 16 aout 2021, voici les collaborateurs au projet:
+**Pour manifester votre intérêt veuillez écrire à Étienne Gagnon à l'adresse suivante:** [etienne.gagnon.11@ulaval.ca](mailto:etienne.gagnon.11@ulaval.ca).
 
-- Étienne Gagnon
-- Laurence Dubé
+## Collaborateurs au projet
 
-## Note
+En date du 16 août 2021, voici les collaborateurs au projet:
+
+- Étienne Gagnon, candidat au Ph.D (R/I), 3ième année;
+- Laurence Dubé, étudiante au D.Psy, 1ère année
+
+## Notes
 
 Cette page est appellé à être modifié en fonction du développement du projet. Ce projet se veut le plus transparent possible, vous pouvez ainsi faire le suivi des modifications à partir du _repository_ Github suivant: [github.com/etienneg418/EnqueteACSPUL-SatisBienEtre](https://github.com/etienneg418/EnqueteACSPUL-SatisBienEtre)
