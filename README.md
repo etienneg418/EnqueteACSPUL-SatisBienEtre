@@ -18,10 +18,11 @@ Nous sommes présentement activement à la recherche de collaborateur. Si vous �
 
 ## Collaborateurs au projet
 
-En date du 16 août 2021, voici les collaborateurs au projet:
+En date du 15 octobre 2021, voici les collaborateurs au projet:
 
-- Étienne Gagnon, candidat au Ph.D (R/I), 3ième année;
-- Laurence Dubé, étudiante au D.Psy, 1ère année
+- Étienne Gagnon, candidat au Ph.D (R/I), 4e année;
+- Laurence Dubé, étudiante au D.Psy, 2e année;
+- William Gilbert, candidat au Ph.D (R/I), 5e année
 
 ## Notes
 
