@@ -23,17 +23,18 @@ N'importe quel membre de l'ACSPUL peut contribuer aux tâches décrites dans le 
 - [x] Post FB de lancement du projet; 
 - [x] Ébauche du calendrier de réalisation;
 - [x] Initialisation de la page web d'information à propos du projet;
-- [ ] Première rencontre virtuelle d'information
+- [x] Première rencontre virtuelle d'information
 
 ## Présentation du projet en AG et mise en place d'un comité dédié
 
-- [ ] Seconde rencontre (en personne?) d'information;
-- [ ] Présentation du projet en AG de l'ACSPUL;
-- [ ] Mise en place du comité dédié au projet;
+- [x] Seconde rencontre (en personne?) d'information;
+- [x] Présentation du projet en AG de l'ACSPUL;
+- [x] Mise en place du comité dédié au projet (il n'est jamais trop tard pour s'impliquer !);
 
 ## Conception de l'enquête
 
-- À venir
+- [ ] Élaboration des échelles d'évaluation de satisfaction;
+- [ ] Élaboration méthodologique (procédure, analyses envisagées, etc.)
 
 ## Développement d'une version d'essai du questionnaire en ligne 
 
