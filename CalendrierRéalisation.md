@@ -11,12 +11,12 @@ N'importe quel membre de l'ACSPUL peut contribuer aux tâches décrites dans le 
 |Août 2021| [Initialisation du projet]() |
 |Septembre 2021| [Présentation du projet en AG et mise en place d'un comité dédié]() |
 |Octobre 2021| [Conception de l'enquête]() |
-|Novembre 2021| [Développement d'une version d'essai du questionnaire en ligne]() |
-|Décembre 2021| [Pré-test de la version d'essai et déboguage]() |
-|Janvier 2022| [Collecte de données]() |
-|Février 2022| [Rédaction du rapport de recherche]() |
-|Mars 2022| [Rédaction du rapport de recherche]() |
-|Avril 2022| [Finalisation et soumission du rapport de recherche aux instances pertinentes]() |
+|Novembre 2021| [Conception de l'enquête]() |
+|Décembre 2021| [Conception de l'enquête]()  |
+|Janvier 2022| [Développement d'une version d'essai du questionnaire en ligne]() [Pré-test de la version d'essai et déboguage]() |
+|Février 2022| [Collecte de données]() [Analyses des données]() |
+|Mars 2022| [Analyses des données]() |
+|Avril 2022| [Écriture et soumission du rapport de recherche aux instances pertinentes]() |
 
 ## Initialisation du projet 
 
@@ -38,20 +38,25 @@ N'importe quel membre de l'ACSPUL peut contribuer aux tâches décrites dans le 
 
 ## Développement d'une version d'essai du questionnaire en ligne 
 
-- À venir
+- [ ] Développement de la plateforme LimeSurvey et de la version d'essai.
 
 ## Pré-test de la version d'essai et débogage
 
-- À venir
+- [ ] Pré-test de la version d'essai
+- [ ] Mise à jour de la version d'essai vers la version officiel.
 
 ## Collecte de données
 
-- À venir
+- [ ] Publication des annonces de recrutement (groupe FB et liste de email).
+- [ ] Rappel de participation
 
 ## Rédaction du rapport de recherche
 
-- À venir
+- [ ] Extraction des données
+- [ ] Prétraitement des données
+- [ ] Analyses préliminaire (dev. graphique et statistiques descriptives).
+- [ ] Réplication indépendante des analyses (?)
 
-## Finalisation et soumission du rapport de recherche
+## Écriture et soumission du rapport de recherche
 
-- À venir
+- [ ] Publication des scripts d'analyses et du rapport.
